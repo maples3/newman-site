@@ -11,11 +11,8 @@ Highland Heights, KY 41076
 <div id="right">
 <a href="mailto:newmanclub@nku.edu">newmanclub@nku.edu</a>
 <br>
-<!-- Old Facebook link that didn't look that nice
-<img src="images/find-us-on-facebook.png" alt="Find us on Facebook">
--->
 <div id="fblink">
-<img src="images/facebook.svg" alt="Facebook logo">
+<img src="images/facebook.svg" alt="Find us on Facebook: ">
 <a href="https://www.facebook.com/groups/nkucatholicnewmancenter/">NKU Catholic Newman Center</a>
 </div>
 </div>
