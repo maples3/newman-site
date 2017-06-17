@@ -37,7 +37,7 @@ nav ul {
 	margin: 0;
 	padding: 0;
 	margin-right: auto;
-	margin-left: auto;	
+	margin-left: auto;
 	overflow: hidden;
 	width: 90%;
 	max-width: 800px;
@@ -62,21 +62,20 @@ nav a {
 nav a:hover {
 	background-color: #22d;
 }
-
-nav .currentPage {
-	/*background-color: #22d;
-	color: #ddd;*/
-}
 /*
+nav .currentPage {
+	background-color: #22d;
+	color: #ddd;
+}
+
 nav .alignRight {
 	float: right;
 }
-*/
 
 nav .special {
     background-color: #99f;
 }
-
+*/
 main {
 	display: block;
 	margin: 10px;
@@ -104,6 +103,11 @@ main h6 {
 	margin-bottom: 0.5em;
 }
 
+main h3 {
+	border-left: 3px solid #038;
+	padding-left: 6px;
+}
+
 /* Styles for the little content pieces in the pages */
 main .story p {
     margin-top: 0.5em;
@@ -115,6 +119,11 @@ main .story img {
     max-width: 60%;
 }
 
+main h3 {
+	border-left: 3px solid #038;
+	padding-left: 6px;
+}
+
 /* Styles for the officers page */
 main .officer {
     clear: both;
@@ -122,6 +131,9 @@ main .officer {
 
 main .officer h3 {
     padding-top: 2em;
+	/* The left side bar doesn't play well with the images or padding */
+	border: none;
+	padding-left: 0;
 }
 
 main .officer .name {
