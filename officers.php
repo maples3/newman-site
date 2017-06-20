@@ -12,8 +12,6 @@
 
 <p>Feel free to contact any of our officers if you have any questions!</p>
 
-Regex: (<img.+>$) 
-
 <div class="officer">
 <img src="images/david_bertsch.jpg"> 
 <h3>President</h3>
