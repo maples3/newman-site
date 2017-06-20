@@ -12,52 +12,52 @@
 
 <p>Feel free to contact any of our officers if you have any questions!</p>
 
-<!-- Regex: (<img.+>$) -->
+Regex: (<img.+>$) 
 
 <div class="officer">
-<!-- <img src="images/david_bertsch.jpg"> -->
+<img src="images/david_bertsch.jpg"> 
 <h3>President</h3>
 <div class="name">David Bertsch</div>
 <div class="emails">bertschd1@nku.edu</div>
 </div>
 
 <div class="officer">
-<!-- <img src="images/matthew_reisiger.jpg"> -->
+<img src="images/matthew_reisiger.jpg"> 
 <h3>Vice President</h3>
 <div class="name">Matthew Reisiger</div>
 <div class="emails">reisigerm1@nku.edu</div>
 </div>
 
 <div class="officer">
-<!-- <img src="images/anthony_mapes.jpg"> -->
+<img src="images/anthony_mapes.jpg"> 
 <h3>Secretary</h3>
 <div class="name">Anthony Mapes</div>
 <div class="emails">mapesa1@nku.edu<br>anthonym7009@gmail.com</div>
 </div>
 
 <div class="officer">
-<!-- <img src="images/kayleigh_rinck.jpg"> -->
+<img src="images/kayleigh_rinck.jpg"> 
 <h3>Treasurer</h3>
 <div class="name">Kayleigh Rinck</div>
 <div class="emails">rinckk1@nku.edu</div>
 </div>
 
 <div class="officer">
-<!-- <img src="images/hannah_bockweg.jpg"> -->
+<img src="images/hannah_bockweg.jpg"> 
 <h3>Public Relations</h3>
 <div class="name">Hannah Bockweg</div>
 <div class="emails">bockwegh1@nku.edu</div>
 </div>
 
 <div class="officer">
-<!-- <img src="images/abby_atkins.jpg"> -->
+<img src="images/abby_atkins.jpg"> 
 <h3>Social</h3>
 <div class="name">Abby Atkins</div>
 <div class="emails">atkinsa4@nku.edu</div>
 </div>
 
 <div class="officer">
-<!-- <img src="images/braeden_weibel.jpg"> -->
+<img src="images/braeden_weibel.jpg"> 
 <h3>Service</h3>
 <div class="name">Braeden Weibel</div>
 <div class="emails">weibelb1@nku.edu</div>
