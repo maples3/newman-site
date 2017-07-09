@@ -14,7 +14,7 @@
 <h3>Mission Statement</h3>
 <p>The NKU Newman Center is a Christ-centered Catholic community
 where students find fellowship and support.
-The Newman Center fosters students’ intellectual and spiritual
+The Newman Center fosters students' intellectual and spiritual
 growth and prepares them to spread the Gospel of Jesus Christ
 on campus and beyond.</p>
 </div>
