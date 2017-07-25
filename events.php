@@ -14,10 +14,13 @@
 <h3>Summer Events</h3>
 <p>We&apos;re going to be at the Summer Tailgate on July 27th, look for us in the Rec Center!
   We will also be at FreshFusion (during the 3-day orientation), so make sure to stop by!</p>
-<p>Additionally, we're working on plans for a &ldquo;Welcome Week&rdquo;, so stay tuned!
- You can join our
+<p>On Thursday, August 24<sup>th</sup> (during the first week of classes) we will
+start of the school year by celebrating Mass in the UC Ballroom (second floor of the
+University Center, which is next to the bookstore) at 1:00pm.  Please join us in prayer as
+we ask God to bless the coming year.</p>
+<p>You can join our
  <a href="https://www.facebook.com/groups/nkucatholicnewmancenter/" target="_blank">Facebook group</a>
-for updates.</p>
+to stay up-to-date on what we have planned.</p>
 </div>
 
 <div class="story">
