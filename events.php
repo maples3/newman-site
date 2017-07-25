@@ -12,7 +12,7 @@
 
 <div class="story">
 <h3>Summer Events</h3>
-<p>We're going to be at the Summer Tailgate on July 27th, look for us in the Rec Center!
+<p>We&apos;re going to be at the Summer Tailgate on July 27th, look for us in the Rec Center!
   We will also be at FreshFusion (during the 3-day orientation), so make sure to stop by!</p>
 <p>Additionally, we're working on plans for a &ldquo;Welcome Week&rdquo;, so stay tuned!
  You can join our

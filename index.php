@@ -14,13 +14,13 @@
 We are a community of like-minded Catholic individuals striving
 for sainthood and helping each other along the way.</p>
 
-<h2>What's new</h2>
+<h2>What&apos;s new</h2>
 
 <div class="story">
 <h3>Summer events!</h3>
-<p>We're going to be at the Summer Tailgate on July 27th, look for us in the Rec Center!
+<p>We&apos;re going to be at the Summer Tailgate on July 27th, look for us in the Rec Center!
   We will also be at FreshFusion (during the 3-day orientation), so make sure to stop by!</p>
-<p>Additionally, we're working on plans for a &ldquo;Welcome Week&rdquo;, so stay tuned!</p>
+<p>Additionally, we&apos;re working on plans for a &ldquo;Welcome Week&rdquo;, so stay tuned!</p>
 </div>
 
 <div class="story">
