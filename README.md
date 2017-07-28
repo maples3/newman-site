@@ -18,9 +18,9 @@ This is where you actually write the page content.  It's fairly straightforward 
 One thing that I wanted to be able to do easily was to have a few "articles" or "stories" with images on the pages.  If you look at the pages, you can see how it should be structured, but here's a quick outline anyway:
 ```html
 <div class="story">
+<h3>Article heading</h3>
 <!-- Picture is optional, but here is where it needs to go.  I usually link to a high-res version as well -->
 <img src="group.jpg" alt="Group picture">
-<h3>Article heading</h3>
 <p>Article content</p>
 </div>
 ```
