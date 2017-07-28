@@ -27,7 +27,7 @@ we ask God to bless the coming year.</p>
 </div>
 
 <div class="story">
-<h3>Our Chapel</h3><a href="images/chapel-1820x1024.jpg"><img src="images/chapel-356x200.jpg" alt="Our new chapel!"></a><p>During the Fall 2016 semester, we ran into an unusual dillema:
+<h3>Our Chapel</h3><a href="images/chapel-1820x1024.jpg"><img src="images/chapel-356x200.jpg" alt="Our new chapel!"></a><p>During the Fall 2016 semester, we ran into an unusual dilemma:
 we had a surge in membership, and we could no longer fit all of
 the members in our chapel for Mass every week!
 So during the winter break, several of us moved the chapel
