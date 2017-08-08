@@ -12,9 +12,9 @@
 
 <div class="story">
 <h3>Newman Welcome Week</h3>
-<p>This year, we've planned a Newman Welcome Week!  Every day during the first
+<p>Every day during the first
   week of classes, we're going to have something going on, so make sure to
-  drop by for at least some of them!
+  drop by for as many as you can!
   <ul>
     <li><b>Monday, August 21</b>
       <ul>
@@ -46,14 +46,14 @@
 </p>
 <p>You can join our
  <a href="https://www.facebook.com/groups/nkucatholicnewmancenter/" target="_blank">Facebook group</a>
-to stay up-to-date on all of our events, as well as general club discussions!</p>
+to stay up-to-date on all of our events, as well as general club discussions.</p>
 </div>
 
 <div class="story">
 <h3>Weekly</h3>
 <p>Every Tuesday night we have a student-led Bible study at the Newman center starting at 7:00pm.
 Bible study usually lasts an hour, but a lot of us like to hang out and talk for a while afterward.</p>
-<p>On Thursday night, we have Adoration or Apologetics at the Newman center (alternating weeks).
+<p>On Thursday nights, we have Adoration (6:30pm) or Apologetics (6:15pm) at the Newman center (alternating weeks).
 Then we have Mass starting at 7:00pm.  After Mass we have a quick meeting, then dinner prepared by
 student volunteers.</p>
 </div>
@@ -61,7 +61,9 @@ student volunteers.</p>
 <div class="story">
 <h3>Other events</h3>
 <p>We have many other events throughout the school year, such as movie nights and dances.</p>
-<p>Every year, we usually have Ash Wednesday Mass in the University Center or Student Union.</p>
+<p>Every year, we have Ash Wednesday Mass in the University Center or Student Union.
+This year, we're planning on having Mass on campus for holy days of obligation as well
+(updates coming soon).</p>
 </div>
 </main>
 
