@@ -11,46 +11,14 @@
 <h1>Events</h1>
 
 <div class="story">
-<h3>Newman Welcome Week</h3>
-<p>Every day during the first
-  week of classes, we're going to have something going on, so make sure to
-  drop by for as many as you can!
-  <ul>
-    <li><b>Monday, August 21</b>
-      <ul>
-        <li><a target="_blank" href="https://www.facebook.com/events/906410952849093/">Movie Night!</a></li>
-      </ul>
-    </li>
-    <li><b>Tuesday, August 22</b>
-      <ul>
-        <li><a target="_blank" href="https://www.facebook.com/events/211444406053654/">Game night!</a></li>
-      </ul>
-    </li>
-    <li><b>Wednesday, August 23</b>
-      <ul>
-        <li><a target="_blank" href="https://www.facebook.com/events/669918736551438">Newman at the Rec Center</a></li>
-      </ul>
-    </li>
-    <li><b>Thursday, August 24</b>
-      <ul>
-        <li><a target="_blank" href="https://www.facebook.com/events/122603408372913">Mass in the UC Ballroom</a></li>
-        <li><a target="_blank" href="https://www.facebook.com/events/835324989979351">Dinner &amp; Open House</a></li>
-      </ul>
-    </li>
-    <li><b>Friday, August 25</b>
-      <ul>
-        <li><a target="_blank" href="https://www.facebook.com/events/122289978405503">Luau Party!</a></li>
-      </ul>
-    </li>
-  </ul>
-</p>
-<p>You can join our
- <a href="https://www.facebook.com/groups/nkucatholicnewmancenter/" target="_blank">Facebook group</a>
-to stay up-to-date on all of our events, as well as general club discussions.</p>
+<h3>Calendar</h3>
+<iframe
+    src="https://calendar.google.com/calendar/embed?src=4u31a59gd7hcdrjhoujl7icbg8%40group.calendar.google.com&ctz=America/New_York"
+    style="border: 0; width: 100%; height: 600px;" frameborder="0" scrolling="no"></iframe>
 </div>
 
 <div class="story">
-<h3>Weekly</h3>
+<h3>Weekly Events</h3>
 <p>Every Tuesday night we have a student-led Bible study at the Newman center starting at 7:00pm.
 Bible study usually lasts an hour, but a lot of us like to hang out and talk for a while afterward.</p>
 <p>On Thursday nights, we have Adoration (6:30pm) or Apologetics (6:15pm) at the Newman center (alternating weeks).
@@ -62,7 +30,7 @@ student volunteers.</p>
 <h3>Other events</h3>
 <p>We have many other events throughout the school year, such as movie nights and dances.</p>
 <p>Every year, we have Ash Wednesday Mass in the University Center or Student Union.
-This year, we're planning on having Mass on campus for holy days of obligation as well
+This year, we're planning on having Mass on campus for Holy Days of obligation as well
 (updates coming soon).</p>
 </div>
 </main>
