@@ -1,0 +1,2 @@
+Hi!  To view the readme, open the README.md as a plain text file or view it on GitHub:
+https://github.com/maples7009/newman-site/
